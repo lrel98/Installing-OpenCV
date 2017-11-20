@@ -1,0 +1,45 @@
+lrel98@arjunkamath91-OptiPlex-9020:~$ sudo apt-get install build-essential
+[sudo] password for lrel98: 
+Reading package lists... Done
+Building dependency tree       
+Reading state information... Done
+build-essential is already the newest version.
+0 upgraded, 0 newly installed, 0 to remove and 21 not upgraded.
+lrel98@arjunkamath91-OptiPlex-9020:~$ nproc
+
+lrel98@arjunkamath91-OptiPlex-9020:~$ sudo apt-get install cmake git libgtk2.0-dev pkg-config libavcodec-dev libavformat-dev libswscale-dev
+sudo: timestamp too far in the future: Nov 20 16:14:22 2017
+[sudo] password for lrel98: 
+Reading package lists... Done
+Building dependency tree       
+Reading state information... Done
+cmake is already the newest version.
+pkg-config is already the newest version.
+git is already the newest version.
+libgtk2.0-dev is already the newest version.
+libavcodec-dev is already the newest version.
+libavformat-dev is already the newest version.
+libswscale-dev is already the newest version.
+0 upgraded, 0 newly installed, 0 to remove and 21 not upgraded.
+lrel98@arjunkamath91-OptiPlex-9020:~$ 
+
+lrel98@arjunkamath91-OptiPlex-9020:~$ sudo apt-get install python-dev python-numpy libtbb2 libtbb-dev libjpeg-dev libpng-dev libtiff-dev libjasper-dev libdc1394-22-dev
+Reading package lists... Done
+Building dependency tree       
+Reading state information... Done
+Note, selecting 'libpng12-dev' instead of 'libpng-dev'
+Note, selecting 'libtiff5-dev' instead of 'libtiff-dev'
+libjpeg-dev is already the newest version.
+python-dev is already the newest version.
+libdc1394-22-dev is already the newest version.
+libtbb-dev is already the newest version.
+libtbb2 is already the newest version.
+libjasper-dev is already the newest version.
+libpng12-dev is already the newest version.
+libtiff5-dev is already the newest version.
+python-numpy is already the newest version.
+0 upgraded, 0 newly installed, 0 to remove and 21 not upgraded.
+lrel98@arjunkamath91-OptiPlex-9020:~$ 
+cd ~/<my_working_directory>
+bash: syntax error near unexpected token `newline'
+lrel98@arjunkamath91-OptiPlex-9020:~$ 
